@@ -1,0 +1,14 @@
+title: "email marketing"
+author: "eu mesmo"
+email: "exemplo@exemplo.com"
+description: "descricao em breve"
+permalink: ':title'
+image: "https://picsum.photos/600/363"
+avatar: "https://geanramos.com.br/img/avatar.png"
+baseurl: ""
+url: "https://3a6d57c2-89fb-4b33-91a5-dc2f47e86c19.gean.me"
+theme: minima
+markdown: kramdown
+paginate: 10
+
+

@@ -1,0 +1,34 @@
+{% include head.html %}
+<body class="body" style="margin: 0; padding: 0; -webkit-text-size-adjust: none; text-size-adjust: none; background-color: #ffffff;">
+<table align="center" class="nl-container" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff;">
+<tbody>
+<tr>
+<td>
+<table align="center" class="row row-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<tbody>
+<tr>
+<td>
+{% include header.html %}
+<div class="spacer_block block-3" style="height: 20px; line-height: 20px; font-size: 1px;">&#8202;</div>
+<table align="center" class="heading_block block-4" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<tr>
+<td align="center" class="pad">
+<h2style="margin: 0;color: #021f59;direction: ltr;font-family: 'Roboto', Tahoma, Verdana, Segoe, sans-serif;font-size: 24px;font-weight: 700;letter-spacing: normal;line-height: 1.2;text-align: center;margin-top: 0;margin-bottom: 0;mso-line-height-alt: 29px;">
+<span class="tinyMce-placeholder" style="word-break: break-word;">{{ page.title }}<br /></span></h2>
+</td>
+</tr>
+</table>
+<!--inicio default-->
+{{ content }}
+<!--fim default-->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+{% include footer.html %}
+</body>
+</html>
