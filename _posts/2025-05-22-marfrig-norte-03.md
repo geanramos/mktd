@@ -12,7 +12,7 @@ avatar: "#link"
 
 Prezados colaboradores,
 
-![Curso de Manipulação de Alimentos](https://www.brasilagro.com.br/uploads/conteudo/conteudo/2018/08/zLRId/linha-de-producao-e-corte-de-carne-do-frigorifico-marfrig-em-promissao-sao-paulo-vWvQ1g.jpg)
+<img src="https://www.brasilagro.com.br/uploads/conteudo/conteudo/2018/08/zLRId/linha-de-producao-e-corte-de-carne-do-frigorifico-marfrig-em-promissao-sao-paulo-vWvQ1g.jpg" alt="Curso de Manipulação de Alimentos" style="max-width: 100%;border-radius: 4px;">
 
 Gostaríamos de reforçar a obrigatoriedade da participação no curso gratuito **Boas Práticas de Manipulação em Serviços de Alimentação**, voltado para todos os membros da equipe Marfrig. 
 
