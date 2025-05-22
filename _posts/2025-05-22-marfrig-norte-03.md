@@ -6,7 +6,7 @@ tags: [marfrig]
 date: 2025-05-22
 cliente: "Marfrig"
 email: "marfrignorte@gmail.com"
-avatar: "https://www.escolavirtual.gov.br/curso/287"
+avatar: "https://lh3.googleusercontent.com/a/ACg8ocKrpG2RhF_6aU60nGc4doQPy6gOHPTSMhIvRlh8dqFk9_lpf98=s200-p-k-no"
 ---
 **Assunto:** Curso de Manipulação de Alimentos – Equipe Marfrig
 
@@ -24,7 +24,7 @@ Destacamos que, para a aprovação, é necessário atingir a **pontuação míni
 
 Para realizar sua inscrição e acessar os módulos do curso, basta seguir o link abaixo e concluir o treinamento dentro do prazo estipulado.
 
-<center><a href="{{ page.urlbt }}" class="btn" style="display: inline-block;padding: 8px 25px;color: white;font-size: 14px;text-decoration: none;border-radius: 4px;text-align: center;cursor: pointer;display: inline-block;font-weight: 700;font-family: 'Roboto', Tahoma, Verdana, Segoe, sans-serif;background-color: #00bf44;">Manipulação de Alimentos</a></center>
+<center><a href="https://www.escolavirtual.gov.br/curso/287" class="btn" style="display: inline-block;padding: 8px 25px;color: white;font-size: 14px;text-decoration: none;border-radius: 4px;text-align: center;cursor: pointer;display: inline-block;font-weight: 700;font-family: 'Roboto', Tahoma, Verdana, Segoe, sans-serif;background-color: #00bf44;">Manipulação de Alimentos</a></center>
 
 Agradecemos sua dedicação e comprometimento com a segurança alimentar e a qualidade dos serviços prestados.
 
